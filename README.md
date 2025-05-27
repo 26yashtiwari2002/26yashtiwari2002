@@ -8,12 +8,12 @@ Welcome to my GitHub profile! I'm a passionate developer who loves learning abou
 - 🔧 I code mostly in **C++**, **Python**, and **JavaScript**
 - 🎯 Interested in **system design**, **competitive programming**, and **AI/ML**
 - 🌱 Currently learning: **Backend development** and **DevOps tools**
-- 📫 How to reach me: email:- tiwariyash20020926@gmail.com 
-- LinkedIn:-https://www.linkedin.com/in/yash-tiwari-747794229/
+- 📫 How to reach me: email - tiwariyash20020926@gmail.com 
+- LinkedIn -https://www.linkedin.com/in/yash-tiwari-747794229/
 
 ## 🛠️ Tech Stack
 - **Languages:** C++, JavaScript
-- **Frameworks:** React,
+- **Frameworks:** React
 - **Tools:** Git, VSCode
 - **Databases:** MySQL
 
